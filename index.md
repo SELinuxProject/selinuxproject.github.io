@@ -3,7 +3,7 @@ layout: default
 title: The SELinux Project
 ---
 
-Welcome to the SELinux community's documentation website. This is the central source for SELinux upstream documentation. Pardon our dust, this page is still under construction.
+Welcome to the SELinux community's documentation website. This is the central source for SELinux upstream documentation.
 
 SELinux is flexible Mandatory Access Control (MAC) for Linux. Today SELinux is an optional component of the mainline Linux kernel and has been integrated into a wide variety of Linux distributions and into Android. SELinux can be used to enforce system security policies over processes, files, sockets, and other objects, both kernel objects and some middleware or application layer objects.
 
@@ -20,6 +20,8 @@ Some user-oriented tutorials on SELinux are linked below.
 * [Demystifying SELinux Part Two](https://youtu.be/3YMSG-lfPfg), 2014 OSCON.
 
 * [Security-Enhanced Linux for Mere Mortals](https://www.youtube.com/watch?v=_WOKRaM-HI4), 2018 Red Hat Summit.
+
+* [SELinux / SE for Android Tutorial](https://docs.google.com/presentation/d/1TAxEQOOS1iQk-uaBm3Jn6O0DsJliz-3Nl488hO8pcws/edit?usp=sharing)
 
 The easiest way to get started with using or developing SELinux is to install a Linux distribution that supports it out of the box. Below are links to distribution-specific SELinux documentation, sorted alphabetically.
 
