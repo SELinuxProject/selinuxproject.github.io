@@ -31,7 +31,7 @@ The easiest way to get started with using or developing SELinux is to install a 
 * [Gentoo SELinux documentation](https://wiki.gentoo.org/wiki/SELinux)
 * [openSUSE SELinux documentation](https://doc.opensuse.org/documentation/leap/security/html/book-security/cha-selinux.html)
 * [Red Hat Enterprise Linux Using SELinux Guide](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/10/html/using_selinux/index)
-* [SUSE Linux Enterprise Server SELinux documentation](https://documentation.suse.com/sles/16.0/html/SLES-SELinux/index.html)
+* [SUSE Linux Enterprise Server Understanding SELinux Basics](https://documentation.suse.com/sles/16.0/html/SLES-SELinux/index.html)
 
 ## Developer Information
 
