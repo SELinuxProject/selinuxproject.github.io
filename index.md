@@ -15,9 +15,7 @@ A quick intro to SELinux concepts can be found in [The SELinux Coloring Book](ht
 
 Some user-oriented tutorials on SELinux are linked below.
 
-* [Demystifying SELinux](https://major.io/wp-content/uploads/2013/05/demystifying_selinux.pdf), 2013 OSCON.
-
-* [Demystifying SELinux Part Two](https://youtu.be/3YMSG-lfPfg), 2014 OSCON.
+* Demystifying SELinux, 2014 OSCON. [Part 1](https://youtu.be/3YMSG-lfPfg), [Part 2](https://youtu.be/xGvjRpVhkIE), and [Part 3](https://youtu.be/5iyCq7WhvOQ). Sources available at this [link](https://github.com/dpquigl/demystifying-selinux).
 
 * [Security-Enhanced Linux for Mere Mortals](https://www.youtube.com/watch?v=_WOKRaM-HI4), 2018 Red Hat Summit.
 
