@@ -21,6 +21,8 @@ Some user-oriented tutorials on SELinux are linked below.
 
 * [SELinux / SE for Android Tutorial](https://docs.google.com/presentation/d/1TAxEQOOS1iQk-uaBm3Jn6O0DsJliz-3Nl488hO8pcws/edit?usp=sharing), 2026. Also available in [PDF](https://selinuxproject.github.io/tutorials/selinux-seforandroid-tutorial-2026.pdf), [OpenDocument](https://selinuxproject.github.io/tutorials/selinux-seforandroid-tutorial-2026.odp) and [PowerPoint](https://selinuxproject.github.io/tutorials/selinux-seforandroid-tutorial-2026.pptx).
 
+* [Writing Targeted Policies for SELinux on Red Hat Enterprise Linux](https://redhatquickcourses.github.io/selinux-policies/selinux-policies/1/index.html).
+
 The easiest way to get started with using or developing SELinux is to install a Linux distribution that supports it out of the box. Below are links to distribution-specific SELinux documentation, sorted alphabetically.
 
 * [Android SELinux documentation](https://source.android.com/docs/security/features/selinux)
